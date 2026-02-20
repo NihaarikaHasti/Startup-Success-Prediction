@@ -1,5 +1,5 @@
 # 👥Team Members:
- **Team Leader**: Thanusree Reddy<br>
+ **Team Leader**  : Thanusree Reddy<br>
  **Team Member**: Nihaarika Hasti<br>
  **Team Member**: Charishma Chinthamakula<br>
  **Team Member**: Pamulapati Keerthi Chandana<br>
