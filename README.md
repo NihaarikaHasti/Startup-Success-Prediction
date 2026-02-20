@@ -4,7 +4,9 @@ https://github.com/vaibzi/Startup-Success-Prediction/assets/97546193/470b83fb-74
 
 # Startup-Success-Prediction
 
-#Author: Nihaarika Hasti
+https://github.com/vaibzi/Startup-Success-Prediction/assets/97546193/470b83fb-74ca-4a44-8588-8540df009e4c
+#Team Members:
+- Nihaarika Hasti
 
 ML model that predicts chances of a startup succeeding based on its fundamentals. Designed on Decision tree and Random Forest Algorithms
 
