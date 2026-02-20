@@ -12,7 +12,7 @@ https://github.com/vaibzi/Startup-Success-Prediction/assets/97546193/470b83fb-74
 
 
 
-ML model that predicts chances of a startup succeeding based on its fundamentals. Designed on Decision tree and Random Forest Algorithms
+ML model that predicts chances of a startup succeeding based on its fundamentals. Designed on Decision tree and Random Forest Algorithms.
 
 
 Objective
