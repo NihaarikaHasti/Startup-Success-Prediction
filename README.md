@@ -1,5 +1,8 @@
 # 👥Team Members:
-- Nihaarika Hasti
+ **Team Leader**: Thanusree Reddy
+ **Team Member**: Nihaarika Hasti
+ **Team Member**: Charishma Chinthamakula
+ **Team Member**: Pamulapati Keerthi Chandana
   
 # 🚀Startup-Success-Prediction
 https://github.com/vaibzi/Startup-Success-Prediction/assets/97546193/470b83fb-74ca-4a44-8588-8540df009e4c
